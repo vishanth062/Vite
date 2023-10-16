@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sony FX 300 - Jackal
+* source:	https://sketchfab.com/3d-models/sony-fx-300-jackal-136a4c67057b42eca51b03655a6505f6
+* author:	Silvia_ (https://sketchfab.com/Silvia_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sony FX 300 - Jackal" (https://sketchfab.com/3d-models/sony-fx-300-jackal-136a4c67057b42eca51b03655a6505f6) by Silvia_ (https://sketchfab.com/Silvia_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
